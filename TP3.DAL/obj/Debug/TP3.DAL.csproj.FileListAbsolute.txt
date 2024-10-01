@@ -1,0 +1,9 @@
+C:\Projects\CUDI\TP3.DAL\obj\Debug\TP3.DAL.csproj.AssemblyReference.cache
+C:\Projects\CUDI\TP3.DAL\obj\Debug\TP3.DAL.csproj.CoreCompileInputs.cache
+C:\Projects\CUDI\TP3.DAL\bin\Debug\TP3.DAL.dll
+C:\Projects\CUDI\TP3.DAL\bin\Debug\TP3.DAL.pdb
+C:\Projects\CUDI\TP3.DAL\bin\Debug\TP3.BE.dll
+C:\Projects\CUDI\TP3.DAL\bin\Debug\TP3.BE.pdb
+C:\Projects\CUDI\TP3.DAL\obj\Debug\TP3.DAL.csproj.Up2Date
+C:\Projects\CUDI\TP3.DAL\obj\Debug\TP3.DAL.dll
+C:\Projects\CUDI\TP3.DAL\obj\Debug\TP3.DAL.pdb

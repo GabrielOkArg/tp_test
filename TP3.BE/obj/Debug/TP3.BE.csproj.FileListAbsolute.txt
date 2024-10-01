@@ -1,0 +1,6 @@
+C:\Projects\CUDI\TP3.BE\bin\Debug\TP3.BE.dll
+C:\Projects\CUDI\TP3.BE\bin\Debug\TP3.BE.pdb
+C:\Projects\CUDI\TP3.BE\obj\Debug\TP3.BE.csproj.AssemblyReference.cache
+C:\Projects\CUDI\TP3.BE\obj\Debug\TP3.BE.csproj.CoreCompileInputs.cache
+C:\Projects\CUDI\TP3.BE\obj\Debug\TP3.BE.dll
+C:\Projects\CUDI\TP3.BE\obj\Debug\TP3.BE.pdb
